@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: 'o-id',
 
   // basic site info (required) 编辑站点信息
-  name: 'o-id',
-  domain: 'o-id.cc',
-  author: 'o-id',
+  name: '江河沉思录',
+  domain: 'rea1.cn',
+  author: '江河',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional) 社交信息
-  twitter: 'chusight1',
-  github: 'chusight',
+  //twitter: 'chusight1',
+  //github: 'chusight',
   zhihu: 'chusight',
   // linkedin: '',
   // instagram: 'onet2lee',
